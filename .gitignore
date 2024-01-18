@@ -1,0 +1,4 @@
+# ignore ALL files
+*.exe
+*.pdf
+*.zip

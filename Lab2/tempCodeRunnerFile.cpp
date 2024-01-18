@@ -1,0 +1,1 @@
+cout <<"Max: "<< max << " LOC: " << loc + 1 << endl;
